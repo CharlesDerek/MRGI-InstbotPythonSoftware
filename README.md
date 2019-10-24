@@ -1,6 +1,11 @@
 MRGInnovations Software & Technology:
 -------------------------------------
 
+Please use the software and following documentation at your own risk.
+By using this Software, you are agreeing that MRGI Software & Technology is not responsible for any Actual damages,
+ or Consequential damages that may follow from using these resources.
+
+
 #### This project will be frozen until we will find good developers team. If you want to be in developer team - email us at support@mrginnovations.com. Use last version on your own risk. 
 
 Developing a automated System for businesses seeking to build their PR on their social media platforms through API's and automization.
