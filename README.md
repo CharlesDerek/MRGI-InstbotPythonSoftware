@@ -15,7 +15,7 @@ By using this Software, you are agreeing that MRGI Software & Technology and Pro
 ------------------------------------
 
 
-#### This project will be frozen until we will find good developers team. If you want to be in developer team - email us at support@mrginnovations.com. Use last version on your own risk. 
+#### This project will be frozen until we will find a good developers team. Use last version on your own risk. 
 
 Developing a automated System for businesses seeking to build their PR on their social media platforms through API's and automization.
 
